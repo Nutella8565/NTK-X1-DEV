@@ -65,7 +65,6 @@ NTK-X1-DEV
 ├── package.json
 ├── package-lock.json
 ├── assests/
-├── assets/
 └── README.md
 ```
 
