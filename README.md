@@ -1,5 +1,3 @@
-<div align="center">
-
 # 🚀 NTK-X1-DEV
 
 **Developer Edition**
@@ -76,8 +74,6 @@ NTK-X1-DEV
 ## ⚠️ Notice
 
 This repository is intended **for developers only**.
-
-Do **not** use this version in production unless you know what you're doing.
 
 ---
 
