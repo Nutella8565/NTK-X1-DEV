@@ -9,17 +9,6 @@ This repository is intended **for developers only**.
 
 ---
 
-*Internal development version of NTK-X1.*
-
-![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=for-the-badge)
-![Node.js](https://img.shields.io/badge/Node.js-Required-green?style=for-the-badge)
-![Electron](https://img.shields.io/badge/Electron-Latest-47848F?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Development-orange?style=for-the-badge)
-
-</div>
-
----
-
 ## 📦 Installation
 
 Clone the repository:
