@@ -1,6 +1,6 @@
 # 🚀 NTK-X1-DEV
 
-# **Developer Edition** (This repository is intended **for developers only.)
+# Developer Edition (This repository is intended for developers only.)
 
 
 ## 📦 Installation
