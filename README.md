@@ -8,7 +8,6 @@
 
 Clone the repository:
 
-```bash
 git clone https://github.com/Nutella8565/NTK-X1-DEV.git
 
 Go into the project folder:
@@ -65,4 +64,3 @@ NTK-X1-DEV
 Made with ❤️ by **Nutella8565**
 
 </div>
-```
