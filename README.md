@@ -1,6 +1,13 @@
 # 🚀 NTK-X1-DEV
 
 **Developer Edition**
+---
+
+## ⚠️ Notice
+
+This repository is intended **for developers only**.
+
+---
 
 *Internal development version of NTK-X1.*
 
@@ -68,14 +75,6 @@ NTK-X1-DEV
 ├── node_modules/
 └── README.md
 ```
-
----
-
-## ⚠️ Notice
-
-This repository is intended **for developers only**.
-
----
 
 <div align="center">
 
